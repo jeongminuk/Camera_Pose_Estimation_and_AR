@@ -1,8 +1,9 @@
 # Camera_Pose_Estimation_and_AR
-Simple Camera pose estimation and AR
+Simple Camera pose estimation and AR.
 카메라를 캘리브레이션한 결과를 이용해서 영상에 간단한 AR물체를 표시해봤습니다.
 
-## Camera Calibration Results - 캘리브레이션한 결과
+## Camera Calibration Results 
+- 캘리브레이션한 결과
 * The number of selected images = 6
 * RMS error = 1.1425782409114145
 * Camera matrix (K) = 
